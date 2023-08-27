@@ -1,4 +1,6 @@
-### Hi there 👋
+#### Hello from ZC Jing!
+
+I am an archaeologist at the University of British Columbia.
 
 <!--
 **ZCJing2022/ZCJing2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
